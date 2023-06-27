@@ -5,3 +5,4 @@ function Home(){
         </center>
     )
 }
+export default Home;

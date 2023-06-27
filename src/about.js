@@ -5,3 +5,4 @@ function About(){
         </center>
     )
 }
+export default About;

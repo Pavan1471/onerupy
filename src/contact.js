@@ -5,3 +5,4 @@ function Contact(){
         </center>
     )
 }
+export default Contact
